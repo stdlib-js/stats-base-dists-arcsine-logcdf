@@ -48,6 +48,7 @@
     "@stdlib/utils-define-nonenumerable-read-only-property": "^0.2.2"
   },
   "devDependencies": {
+    "@stdlib/array-float64": "^0.2.2",
     "@stdlib/constants-float64-eps": "^0.2.2",
     "@stdlib/constants-float64-pinf": "^0.2.2",
     "@stdlib/math-base-special-abs": "^0.2.2",
