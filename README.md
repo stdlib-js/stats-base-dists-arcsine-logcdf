@@ -33,7 +33,7 @@ limitations under the License.
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] <!-- [![dependencies][dependencies-image]][dependencies-url] -->
 
-> [Arcsine][arcsine-distribution] distribution logarithm of [cumulative distribution function][cdf].
+> [Arcsine][arcsine-distribution] distribution natural logarithm of [cumulative distribution function][cdf].
 
 <section class="intro">
 
@@ -88,7 +88,7 @@ var logcdf = require( '@stdlib/stats-base-dists-arcsine-logcdf' );
 
 #### logcdf( x, a, b )
 
-Evaluates the logarithm of the [cumulative distribution function][cdf] (CDF) for an [arcsine][arcsine-distribution] distribution with parameters `a` (minimum support) and `b` (maximum support).
+Evaluates the natural logarithm of the [cumulative distribution function][cdf] (CDF) for an [arcsine][arcsine-distribution] distribution with parameters `a` (minimum support) and `b` (maximum support).
 
 ```javascript
 var y = logcdf( 9.0, 0.0, 10.0 );
