@@ -4,7 +4,29 @@
 
 <section class="release" id="unreleased">
 
-## Unreleased (2026-08-12)
+## Unreleased (2026-09-02)
+
+<section class="features">
+
+### Features
+
+-   [`94b9253`](https://github.com/stdlib-js/stdlib/commit/94b9253abd5a0fedf57b30619df3bcb6236aa80b) - add C implementation for `stats/base/dists/arcsine/logcdf` [(#10739)](https://github.com/stdlib-js/stdlib/pull/10739)
+
+</section>
+
+<!-- /.features -->
+
+<section class="issues">
+
+### Closed Issues
+
+This release closes the following issue:
+
+[#3386](https://github.com/stdlib-js/stdlib/issues/3386)
+
+</section>
+
+<!-- /.issues -->
 
 <section class="commits">
 
@@ -12,6 +34,7 @@
 
 <details>
 
+-   [`94b9253`](https://github.com/stdlib-js/stdlib/commit/94b9253abd5a0fedf57b30619df3bcb6236aa80b) - **feat:** add C implementation for `stats/base/dists/arcsine/logcdf` [(#10739)](https://github.com/stdlib-js/stdlib/pull/10739) _(by Mohamed Mohey)_
 -   [`6f563d5`](https://github.com/stdlib-js/stdlib/commit/6f563d5f65c22965e60a82e70c73a5e687df4b00) - **style:** add missing spaces [(#14201)](https://github.com/stdlib-js/stdlib/pull/14201) _(by Philipp Burckhardt)_
 -   [`99b2dea`](https://github.com/stdlib-js/stdlib/commit/99b2dea681f348b20578ff3b0d6f2be4c4dc0c81) - **test:** migrate `stats/base/dists/arcsine/logcdf` to ULP-based assertions [(#14180)](https://github.com/stdlib-js/stdlib/pull/14180) _(by Athan Reines)_
 -   [`cae5335`](https://github.com/stdlib-js/stdlib/commit/cae53357950b4c389b0020878c268995cd79d222) - **docs:** propagate develop fixes to sibling packages [(#12736)](https://github.com/stdlib-js/stdlib/pull/12736) _(by Philipp Burckhardt)_
@@ -28,10 +51,11 @@
 
 ### Contributors
 
-A total of 3 people contributed to this release. Thank you to the following contributors:
+A total of 4 people contributed to this release. Thank you to the following contributors:
 
 -   Athan Reines
 -   Karan Anand
+-   Mohamed Mohey
 -   Philipp Burckhardt
 
 </section>
